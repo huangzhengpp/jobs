@@ -1,0 +1,47 @@
+abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video { margin: 0; padding: 0;
+	border:  ;
+	font-weight:inherit;
+	font-size: 12px;
+	vertical-align: baseline;
+	font-family:Microsoft YaHei,Hiragino Sans GB W3,PingFang-SC-Regular,Helvetica Neue,Helvetica,microsoft yahei,sans-serif;
+
+}
+/* body { background: #f2f4f7; }
+ol, ul { list-style: none }
+table { border-collapse: collapse; border-spacing: 0 } */
+caption, td, th { text-align: left; font-weight: 400; vertical-align: middle }
+blockquote, q { quotes: none }
+blockquote:after, blockquote:before, q:after, q:before { content: ""; content: none }
+a img { border: none }
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block }
+button, html, input, select, textarea { font-family:Microsoft YaHei,Hiragino Sans GB W3,PingFang-SC-Regular,Helvetica Neue,Helvetica,microsoft yahei,sans-serif; }
+body { -webkit-text-size-adjust: none; color: #4c4c4c; }
+
+
+
+
+
+/* input { background-color: #fff; font-size: 1em; outline:none; text-indent: 10px; }
+ */
+a:hover { opacity: 0.8; filter:alpha(opacity=80); text-decoration: blink }
+.clear {clear: both;}
+
+
+/* #place { background: url(../images/dsfw.png) no-repeat 96% center; } */
+#destination { background: url(../images/sui.png) no-repeat 96% center; }
+
+ #in_city { background: #ddd;border: solid 1px #d7d7d7; background: #fff;padding-bottom: 6px; }
+.screen { overflow: hidden; }
+.screen a { float: left; color: #129ace; padding: 1px 12.6px; text-align: center; border-bottom: solid 1px #0d9572; }
+.screen a:hover { color: #c92436; }
+.screen .shar { color: #404040; border: solid 1px #0d9572; border-bottom: none; }
+.city_a_le1 { padding: 10px; overflow: hidden; }
+.city_a_le1 a { float: left; width: 20%; margin: 2px 0; }
+.Letter span { width: 12%; float: left; text-align: center; padding: 2px 0; }
+.Letter div { width: 88%; float: left; }
+.city_a_le1 a:hover { color: #c92436; }
+.Letter div a { width: 25%; }
+#in_city h1 { padding: 10px 0; color: #ababab; text-indent: 3%; }
+/* input { border: solid 1px #e1e1e1; height: 28px; border-radius: 3px; text-indent: 10px; margin: 20px 0 10px 10px; width: 100px;}
+ */
+
